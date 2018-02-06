@@ -1,0 +1,15 @@
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.csprojResolveAssemblyReference.cache
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.Form1.resources
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.Properties.Resources.resources
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.csproj.GenerateResource.Cache
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.csproj.CoreCompileInputs.cache
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\SpyPlaybackNewUI1.exe.config
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\SpyPlaybackNewUI1.exe
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\SpyPlaybackNewUI1.pdb
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\Gu.Wpf.UiAutomation.dll
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\Newtonsoft.Json.dll
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\Gu.Wpf.UiAutomation.pdb
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\Gu.Wpf.UiAutomation.xml
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\bin\Debug\Newtonsoft.Json.xml
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.exe
+D:\SpyPlayBackNewUI1\SpyPlaybackNewUI1\SpyPlaybackNewUI1\obj\Debug\SpyPlaybackNewUI1.pdb
