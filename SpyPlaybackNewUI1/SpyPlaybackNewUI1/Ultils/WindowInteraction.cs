@@ -24,7 +24,7 @@ namespace SpyPlaybackNewUI1.Ultils
             if (hWnd != IntPtr.Zero)
             {
                 SetForegroundWindow(hWnd);
-                ShowWindow(hWnd, SW_MAXIMIZE);
+                //ShowWindow(hWnd, SW_MAXIMIZE);
             }
         }
         public static Process GetProcess(string ProcessName)
